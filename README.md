@@ -1,5 +1,6 @@
 # Face Generation using GANs
 [![Language Badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+[![Library Badge](https://img.shields.io/badge/Library-PyTorch-yellow.svg)](https://pytorch.org/)
 [![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-0a2c46.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 In this project, a Deep Convolutional Generative Adversarial Network (DCGAN) is defined and trained on the CelebFaces Attributes Dataset (CelebA) to generate new images of faces that look as realistic as possible.
